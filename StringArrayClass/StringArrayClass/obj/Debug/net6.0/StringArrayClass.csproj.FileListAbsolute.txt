@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/bin/Debug/net6.0/StringArrayClass
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/bin/Debug/net6.0/StringArrayClass.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/bin/Debug/net6.0/StringArrayClass.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/bin/Debug/net6.0/StringArrayClass.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/bin/Debug/net6.0/StringArrayClass.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/StringArrayClass.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/StringArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/StringArrayClass.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/StringArrayClass.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/StringArrayClass.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/StringArrayClass.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/refint/StringArrayClass.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/StringArrayClass.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/StringArrayClass.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm4/StringArrayClass/StringArrayClass/obj/Debug/net6.0/ref/StringArrayClass.dll
